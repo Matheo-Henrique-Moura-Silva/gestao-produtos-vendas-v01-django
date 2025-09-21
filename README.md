@@ -54,13 +54,13 @@ Certifique-se de ter o Python 3 instalado em sua máquina.
 1.  Clone o repositório:
 
     ```bash
-    git clone https://github.com/Matheo-Henrique-Moura-Silva/kl-perfume-v01-django.git
+    git clone https://github.com/Matheo-Henrique-Moura-Silva/gestao-produtos-vendas-v01-django.git
     ```
 
 2.  Navegue até o diretório do projeto:
 
     ```bash
-    cd kl-perfume-v01-django-main
+    cd gestao-produtos-vendas-v01-django-main
     ```
 
 3.  Crie e ative um ambiente virtual:
